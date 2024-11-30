@@ -1,1 +1,16 @@
-# FinSync
+# FinSync: AI FinTech SaaS Website Case Study
+![FinSync Project Title-](https://github.com/user-attachments/assets/437bb25b-fc38-44f4-bbd3-cdc03f5a6a77)
+![Project Overview-2](https://github.com/user-attachments/assets/165b662e-e33e-483c-a9c7-081194cf1887)
+![Problem and Goal-3](https://github.com/user-attachments/assets/f550f308-3735-4dd7-9afe-feac91c036f7)
+![Design Process-4](https://github.com/user-attachments/assets/7b9902d8-4f46-4c4c-84d3-a818ca3ce24b)
+![User Research-5](https://github.com/user-attachments/assets/2e730c33-8816-42dd-82a7-b81a1a87f7b2)
+![Pain Points-6](https://github.com/user-attachments/assets/9749dc48-1e3b-4805-a6e7-91152ad34b39)
+![User Personas-7](https://github.com/user-attachments/assets/791c0bfa-7626-4079-8e28-302276728d8f)
+![Competitive Audit-8](https://github.com/user-attachments/assets/d6a54d1a-7494-4e7b-8892-0c7a568e1bb3)
+![IA_User flow-9](https://github.com/user-attachments/assets/eb5d3e03-5e13-4115-ac14-8986c6d5e965)
+![Lofi Wireframes-10](https://github.com/user-attachments/assets/2da06dad-9f5b-4ac5-a832-ac244ca33c7d)
+![Hifi Mockups-11](https://github.com/user-attachments/assets/92feaff7-269b-4c0e-b64a-9800b1d0646d)
+![Usability Testings-12](https://github.com/user-attachments/assets/84cc0166-4968-4514-868e-92c401a2b5c4)
+![Style Guide-13](https://github.com/user-attachments/assets/e3b4bfc7-2f79-44d6-89ee-f057001282a0)
+![Impacts-14](https://github.com/user-attachments/assets/7869a39d-5d48-4405-b623-c0c6eae14d02)
+![Lessons and Next Steps-15](https://github.com/user-attachments/assets/5994813e-1f79-449d-bfb6-ce7262ac66a3)
